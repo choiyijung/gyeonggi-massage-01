@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://pogeunkeeo.netlify.app/sitemap.xml
